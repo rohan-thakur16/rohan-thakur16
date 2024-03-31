@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Thakur</h1>
-<h3 align="center">Hello, I'm a passionate Full Stack Developer adept at managing both frontend and backend tasks with professionalism and a touch of humor.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer adept at managing both frontend and backend tasks with professionalism and a touch of humor.</h3>
 
 - 🔭 I’m currently working on **rafting Golang microservices, leveraging the language's strengths to build scalable and efficient systems that meet the demands of modern applications.**
 
