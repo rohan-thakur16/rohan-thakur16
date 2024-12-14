@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **rafting Golang microservices, leveraging the language's strengths to build scalable and efficient systems that meet the demands of modern applications.**
 
-- 👨‍💻 All of my projects are available at [here.](https://rohansinghthakur.com)
+- 👨‍💻 All of my projects are available at [here](https://rohansinghthakur.com).
 
 - 💬 Ask me about **You can ask me about Golang, Java, React, and Flutter—each area where I'm actively engaged and eager to share insights and experiences!**
 
@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rohan-thakur16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-thakur16" height="30" width="40" /></a>
+<a href="https://hashnode.com/https://rohansinghthakur.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://rohansinghthakur.com/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
